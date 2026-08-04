@@ -8,11 +8,13 @@
 | [0009-palindrome-number](https://github.com/Abhinab1177/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhinab1177/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Abhinab1177/LeetCode/tree/master/0050-powx-n) |
+| [0171-excel-sheet-column-number](https://github.com/Abhinab1177/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhinab1177/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Abhinab1177/LeetCode/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Abhinab1177/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
 |  |
 | ------- |
