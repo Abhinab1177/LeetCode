@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Abhinab1177/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Abhinab1177/LeetCode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/Abhinab1177/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Abhinab1177/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
 | ------- |
